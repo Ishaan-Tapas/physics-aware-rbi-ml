@@ -1,0 +1,5 @@
+design_pressure_bar,design_temperature_C,operating_pressure_bar,operating_temperature_C,remaining_thickness_mm,min_thickness_required_mm,corrosion_rate_mm_per_year,years_in_service,failure
+120,400,145,450,20.2,24.5,0.6,18,1
+100,380,110,390,23.8,21.0,0.35,12,0
+110,390,135,430,18.1,23.8,0.7,20,1
+105,370,108,375,22.1,20.5,0.3,14,0
